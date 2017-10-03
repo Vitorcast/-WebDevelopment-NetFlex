@@ -1,0 +1,11 @@
+f:\CENTENNIAL\API\Assignments\03\Project\Netflex\bin\Debug\netcoreapp2.0\Netflex.deps.json
+f:\CENTENNIAL\API\Assignments\03\Project\Netflex\bin\Debug\netcoreapp2.0\Netflex.runtimeconfig.json
+f:\CENTENNIAL\API\Assignments\03\Project\Netflex\bin\Debug\netcoreapp2.0\Netflex.runtimeconfig.dev.json
+F:\CENTENNIAL\API\Assignments\03\Project\Netflex\bin\Debug\netcoreapp2.0\Netflex.dll
+F:\CENTENNIAL\API\Assignments\03\Project\Netflex\bin\Debug\netcoreapp2.0\Netflex.pdb
+F:\CENTENNIAL\API\Assignments\03\Project\Netflex\obj\Debug\netcoreapp2.0\Netflex.csproj.CoreCompileInputs.cache
+F:\CENTENNIAL\API\Assignments\03\Project\Netflex\obj\Debug\netcoreapp2.0\Netflex.AssemblyInfoInputs.cache
+F:\CENTENNIAL\API\Assignments\03\Project\Netflex\obj\Debug\netcoreapp2.0\Netflex.AssemblyInfo.cs
+F:\CENTENNIAL\API\Assignments\03\Project\Netflex\obj\Debug\netcoreapp2.0\Netflex.dll
+F:\CENTENNIAL\API\Assignments\03\Project\Netflex\obj\Debug\netcoreapp2.0\Netflex.pdb
+F:\CENTENNIAL\API\Assignments\03\Project\Netflex\obj\Debug\netcoreapp2.0\Netflex.csprojResolveAssemblyReference.cache
